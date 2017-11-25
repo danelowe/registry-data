@@ -1,0 +1,5 @@
+node_modules
+__generated__
+build
+.DS_Store
+*.css
