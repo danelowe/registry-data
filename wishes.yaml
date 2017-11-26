@@ -3,7 +3,7 @@
   orSimilar: false
   url: https://www.cittadesign.com/house-home/kitchen-dining/napkins-placemats-tablecloths/monroe-cork-coaster-s4-zni0022
   description: This set of four Monroe Cork Coasters in chic carbon is set to star at a dinner table near you this summer.
-  price: $12.90
+  price: 12.90
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: Sets
@@ -12,8 +12,8 @@
 - title: Monroe Round Cork Placemat
   orSimilar: false
   url: https://www.cittadesign.com/house-home/kitchen-dining/napkins-placemats-tablecloths/monroe-round-cork-placemat-zni0018
-  description: The Monroe Round Cork Placemat in chic carbon is set to star at a dinner table near you this summer. $11.90 each
-  price: $47.60 (set of 4)
+  description: The Monroe Round Cork Placemat in chic carbon is set to star at a dinner table near you this summer. $11.90 each, $47.60 for set of 4.
+  price: 47.60 
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: Sets
@@ -23,7 +23,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/default.aspx?catid=148654&pdID=67096
   description: Each piece in our Talo glassware collection is individually mouth-blown to achieve a timeless everyday design.
-  price: $39.90
+  price: 39.90
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: sets
@@ -33,7 +33,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/default.aspx?catid=148654&pdID=67091
   description: Each piece in our Talo glassware collection is individually mouth-blown to achieve a timeless everyday design.
-  price: $44.90
+  price: 44.90
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: sets
@@ -43,7 +43,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/default.aspx?catid=148657&pdID=60699
   description: Our much-loved stoneware Tapas range is hand-glazed to give a beautiful, glossy finish. Featuring a modern oval design and clean profile, the Tapas Salad Bowl is a stylish addition to your everyday dining. Pair with other pieces from the Tapas range.
-  price: $39.90
+  price: 39.90
   quantityDesired: 1
   quantityUnallocated: 1
   quantityType: item
@@ -53,7 +53,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/shop/home/kitchen-and-dining/serving/60210804/Salt-Salad-Servers.html
   description: Perfect for a modern home, these salad servers are made for everyday. In stainless steel they have a bushed finish.
-  price: $54.90
+  price: 54.90
   quantityDesired: 1
   quantityUnallocated: 1
   quantityType: item
@@ -63,7 +63,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/default.aspx?catid=148657&pdID=60671
   description: Our much-loved stoneware Tapas range is hand-glazed to give a beautiful, glossy finish. Featuring a modern oval design and clean profile, the Tapas Dip Bowl is a stylish addition to the table. Pair with other pieces from the Tapas range.
-  price: $12.90
+  price: 12.90
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: Sets
@@ -73,7 +73,7 @@
   orSimilar: false
   url: https://www.countryroad.co.nz/shop/home/kitchen-and-dining/serving/60203907-9463/Tapas-Platter.html
   description: Our much-loved stoneware Tapas range is hand-glazed to give a beautiful, glossy finish. Featuring a modern oval design and clean profile, the Tapas Platter is perfect for serving everything, from salads to cheeses. Pair with other pieces from the Tapas range.
-  price: $39.90
+  price: 39.90
   quantityDesired: 1
   quantityUnallocated: 1
   quantityType: Sets
@@ -86,7 +86,7 @@
     glossy finish. Featuring a modern circular design and clean profile, the Tapas
     Shallow Bowl is a stylish addition to your everyday dining. Perfect for salads
     and pasta, pair with other pieces from the Tapas range.
-  price: 1
+  price: 74.90
   quantityDesired: 2
   quantityUnallocated: 2
   quantityType: Sets
@@ -98,7 +98,7 @@
   description: A new addition to our much-loved stoneware Tapas range. Hand-glazed
     to give a beautiful, glossy finish our Tapas Mug features a clean, modern profile.
     Perfect for everyday, pair with other pieces from our Tapas collection.
-  price: 1
+  price: 49.90
   quantityDesired: 3
   quantityUnallocated: 3
   quantityType: Sets
@@ -112,7 +112,7 @@
     itself on its nose for storage. Its strength and robustness belies its economical
     price, and being plastic and galvanised it is not going to rust away. This design
     is perennially popular in Europe where the Parker is ubiquitous. '
-  price: 1
+  price: 119.00
   quantityDesired: 1
   quantityUnallocated: 0
   quantityType: Items
@@ -123,7 +123,7 @@
   url: https://www.farmers.co.nz/home/kitchen/utensils-knives/haven-kitchen-cherie-pastry-brush-purple-6238437
   description: How to get that golden glow atop your pies and pastries! Available
     in blue, purple and grey (sold separately).
-  price: 1
+  price: 12.99
   quantityDesired: 1
   quantityUnallocated: 1
   quantityType: Items
